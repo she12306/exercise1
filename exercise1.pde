@@ -1,4 +1,3 @@
-// make some change here.
 size(500,500);
 
 fill(#00FFCC);
@@ -10,9 +9,6 @@ arc(200,215,300,300,0,PI,CHORD);
 
 ellipse(175,130,50,60);
 ellipse(225,130,50,60);
-
-
-ellipse(200,165,30,30);
 
 arc(200,220,240,200,0,PI, OPEN);
 
@@ -34,5 +30,11 @@ fill(#FFFFFF);
 ellipse(190,135,4,6);
 ellipse(210,135,4,6);
 
+fill(#FF0000);
+ellipse(200,165,30,30);
+
 stroke(255);
 line(50,215,350,215);
+
+fill(#FFFFFF);
+ellipse(198,162,8,8);
